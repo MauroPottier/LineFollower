@@ -1,7 +1,6 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-
 uitleg over het opladen of vervangen van de batterijen
 
 ### draadloze communicatie
@@ -19,8 +18,11 @@ set kp
 set ki  
 set kd  
 
+### kalibratie
+uitleg kalibratie  
+
 ### settings
 De robot rijdt stabiel met volgende parameters:  
 
 ### start/stop button
-Uitleg locatie + werking start/stop button
+uitleg locatie + werking start/stop button
