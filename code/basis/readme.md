@@ -1,7 +1,7 @@
 
 volgende zaken werken samen in dit template project
-* SerialCommands 
-* cyclus
+* instelbare parameters mbv. SerialCommands 
+** cyclus
 * eeprom
 * start/stop interrupt
 * draadloze communicatie
