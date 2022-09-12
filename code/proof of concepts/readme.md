@@ -8,3 +8,5 @@ Een proof of concept bestaat uit
 * een elektronisch schema (indien van toepassing)
 * minimale code om de voorop gestelde zaken te demonstreren
 * minimale uitleg / aandachtspunten
+<br />
+De elektronische schakelingen van de proof of concepts komen bij voorkeur overeen met deze van de uiteindelijke linefollower, zodat de code zonder aanpassingen op het finale project kan draaien.
