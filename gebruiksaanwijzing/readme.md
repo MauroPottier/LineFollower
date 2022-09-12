@@ -4,10 +4,11 @@
 
 uitleg over het opladen of vervangen van de batterijen
 
-## draadloze communicatie
-### verbinding maken
+### draadloze communicatie
+#### verbinding maken
+uitleg over het verbinden van de robot met laptop / smartphone
 
-### commando's
+#### commando's
 debug on
 debug off
 start
