@@ -1,6 +1,6 @@
 # Gebruiksaanwijzing
 
-## opladen / vervangen batterijen
+### opladen / vervangen batterijen
 
 uitleg over het opladen of vervangen van de batterijen
 
@@ -9,10 +9,10 @@ uitleg over het opladen of vervangen van de batterijen
 uitleg over het verbinden van de robot met laptop / smartphone
 
 #### commando's
-debug on
-debug off
-start
-stop
+#####debug [on|off]
+uitleg
+#####start
+#####stop
 set cycle
 set power
 set diff
