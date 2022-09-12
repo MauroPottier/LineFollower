@@ -1,3 +1,3 @@
 # H-Bridge proof of concept
 
-minimal hard- & software that proof that 2 motors can be turned on inidivually in both speed and direction
+minimale hard- & software die aantoont dat 2 motoren onafhankelijk van elkaar kunnen draaien, en (traploos) regelbaar zijn in snelheid en draairichting.
