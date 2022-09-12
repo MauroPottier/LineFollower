@@ -7,3 +7,4 @@ Proof of concepts kunnen enerzijds als eerste poging dienen om een bepaald onder
 Een proof of concept bestaat uit
 * een elektronisch schema (indien van toepassing)
 * minimale code om de voorop gestelde zaken te demonstreren
+* minimale uitleg / aandachtspunten
