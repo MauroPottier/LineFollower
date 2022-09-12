@@ -6,10 +6,18 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 [picture]
 
 ## specifications
+
 microcontroller:
+
 motors: 
+
 h-bridge:
+
 sensors:
+
 batteries:
+
 wireless communication:
+
 distance sensor - motors:
+
