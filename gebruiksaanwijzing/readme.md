@@ -8,15 +8,17 @@ uitleg over het opladen of vervangen van de batterijen
 uitleg over het verbinden van de robot met laptop / smartphone
 
 #### commando's
-debug  
+debug [on/off]  
 start  
 stop  
-set cycle  
-set power  
-set diff  
-set kp  
-set ki  
-set kd  
+set cycle [µs]  
+set power [0..255]  
+set diff [0..1]  
+set kp [0..]  
+set ki [0..]  
+set kd [0..]  
+calibrate black  
+calibrate white  
 
 ### kalibratie
 uitleg kalibratie  
