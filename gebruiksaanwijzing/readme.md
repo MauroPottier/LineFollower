@@ -20,5 +20,5 @@ set ki
 set kd  
 
 ### settings
-
+De robot rijdt stabiel met volgende parameters:  
 ### start/stop button
