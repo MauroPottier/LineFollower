@@ -9,10 +9,10 @@ uitleg over het opladen of vervangen van de batterijen
 uitleg over het verbinden van de robot met laptop / smartphone
 
 #### commando's
-##### debug [on|off]
+debug  
 uitleg
-##### start
-##### stop
+start  
+stop  
 set cycle
 set power
 set diff
