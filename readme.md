@@ -23,3 +23,7 @@ wireless communication:
 <br />
 distance sensor - motors:
 <br />
+weight:
+<br />
+speed: 
+<br />
