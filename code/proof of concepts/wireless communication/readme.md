@@ -5,3 +5,5 @@ minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceer
 
 ### opmerkingen
 
+### gebruiksaanwijzing
+
