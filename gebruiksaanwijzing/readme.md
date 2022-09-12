@@ -10,13 +10,12 @@ uitleg over het verbinden van de robot met laptop / smartphone
 
 #### commando's
 debug  
-uitleg
 start  
 stop  
-set cycle
-set power
-set diff
-set kp
-set ki
-set kd
+set cycle  
+set power  
+set diff  
+set kp  
+set ki  
+set kd  
 
